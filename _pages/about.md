@@ -10,11 +10,33 @@ redirect_from:
 * I am currently a undergraduate student in School of Computer Science, Beijing University of Posts and Telecommunications (BUPT), and I will receive my Bachelor's degree in Jul. 2022.<br>
 * I am also an intern at [Data Intelligence Lab](https://sites.google.com/view/chaoh/group-join-us?authuser=0), University of Hong Kong , under the supervision of Dr. [Chao Huang](https://sites.google.com/view/chaoh).<br>
 
+
+
+# Education
+
+## Bachelor of Network Engineering
+
+*at Beijing University of Posts and Telecommunications*																									2018 - 2022, expected
+
+Overall GPA: **90.05**/100 (ranking **1st**/69)
+
+
+
 # Research
+
 My current research interests including Data Mining and Graph Neural Networks (GNNs), particularly in graph representation learning and recommendation system.
 
 
-# Publications([google scholar profile](https://scholar.google.com/citations?user=jKxBZMwAAAAJ&hl=zh-CN&oi=ao))
+
+# Recent News
+
+(2021.12.10) The paper *Modeling review helpfulness with augmented transformer neural networks* gets accepted to ICSC 2022!
+
+(2021.10.24) The paper *Attention-enhanced Graph Cross-convolution for Protein-Ligand Binding Affinity Prediction* gets accepted to BIBM 2021!
+
+
+
+# Publications
 
 - Yunkai Xiao†, <b>Tianle Wang†</b>, Xinhua Sun, Yicong Li, Yang Song, Jialin Cui, Qinjin Jia, Chengyuan Liu, Edward F Gehringer. Modeling review helpfulness with augmented transformer neural networks. [IEEE International Conference on Semantic Computing](https://semanticcomputing.wixsite.com/icsc2022) (ICSC), 2022 (Accepted). [[PDF](https://louiswng.github.io/files/IEEE_ICSC_2022_Augmented_model_helpfulness.pdf)]
 - Xianbing Feng, Jingwei Qu, <b>Tianle Wang</b>, Bei Wang, Xiaoqing Lyu, Zhi Tang. Attention-enhanced Graph Cross-convolution for Protein-Ligand Binding Affinity Prediction. [IEEE International Conference on Bioinformatics and Biomedicine](https://ieeebibm.org/BIBM2021/) (BIBM), 2021, (Accepted). [[PDF](https://louiswng.github.io/files/IEEE_BIBM2021_GCAT.pdf)]
