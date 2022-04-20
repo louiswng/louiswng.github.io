@@ -16,23 +16,23 @@ My current research interests including Data Mining and Graph Neural Networks (G
 
 # Publications([google scholar profile](https://scholar.google.com/citations?user=jKxBZMwAAAAJ&hl=zh-CN&oi=ao))
 
-## Modeling review helpfulness with augmented transformer neural networks
+- Modeling review helpfulness with augmented transformer neural networks
 
-Yunkai Xiao†, <b>Tianle Wang†</b>, Xinhua Sun, Yicong Li, Yang Song, Jialin Cui, Qinjin Jia, Chengyuan Liu, Edward F Gehringer
+  Yunkai Xiao†, <b>Tianle Wang†</b>, Xinhua Sun, Yicong Li, Yang Song, Jialin Cui, Qinjin Jia, Chengyuan Liu, Edward F Gehringer
 
-[PDF]()|[DOI](https://ieeexplore.ieee.org/abstract/document/9736324)
+  [PDF]()|[DOI](https://ieeexplore.ieee.org/abstract/document/9736324)
 
-*IEEE International Conference on Semantic Computing (ICSC 2022)*
+  *IEEE International Conference on Semantic Computing (ICSC 2022)*
 
 
 
-## Attention-enhanced Graph Cross-convolution for Protein-Ligand Binding Affinity Prediction
+- Attention-enhanced Graph Cross-convolution for Protein-Ligand Binding Affinity Prediction
 
-Xianbing Feng, Jingwei Qu, <b>Tianle Wang</b>, Bei Wang, Xiaoqing Lyu, Zhi Tang
+  Xianbing Feng, Jingwei Qu, <b>Tianle Wang</b>, Bei Wang, Xiaoqing Lyu, Zhi Tang
 
-[PDF]()|[DOI](https://ieeexplore.ieee.org/abstract/document/9669341)
+  [PDF]()|[DOI](https://ieeexplore.ieee.org/abstract/document/9669341)
 
-*IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2021)*
+  *IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2021)*
 
 
 
