@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-* I am currently a undergraduate student in Beijing University of Posts and Telecommunications (BUPT), and I will receive my Bachelor's degree in Jul. 2022.<br>
-* I am also an intern in [Data Intelligence Lab](https://sites.google.com/view/chaoh/group-join-us?authuser=0), University of Hong Kong , under the supervision of Dr. [Chao Huang](https://sites.google.com/view/chaoh).<br>
+* I am currently a undergraduate student in School of Computer Science, Beijing University of Posts and Telecommunications (BUPT), and I will receive my Bachelor's degree in Jul. 2022.<br>
+* I am also an intern at [Data Intelligence Lab](https://sites.google.com/view/chaoh/group-join-us?authuser=0), University of Hong Kong , under the supervision of Dr. [Chao Huang](https://sites.google.com/view/chaoh).<br>
 
 # Research
 My current research interests including Data Mining and Graph Neural Networks (GNNs), particularly in graph representation learning and recommendation system.
@@ -20,7 +20,7 @@ My current research interests including Data Mining and Graph Neural Networks (G
 
   Yunkai Xiao†, <b>Tianle Wang†</b>, Xinhua Sun, Yicong Li, Yang Song, Jialin Cui, Qinjin Jia, Chengyuan Liu, Edward F Gehringer
 
-  [PDF]()|[DOI](https://ieeexplore.ieee.org/abstract/document/9736324)
+  [PDF]() &#124 [DOI](https://ieeexplore.ieee.org/abstract/document/9736324)
 
   *IEEE International Conference on Semantic Computing (ICSC 2022)*
 
@@ -30,7 +30,7 @@ My current research interests including Data Mining and Graph Neural Networks (G
 
   Xianbing Feng, Jingwei Qu, <b>Tianle Wang</b>, Bei Wang, Xiaoqing Lyu, Zhi Tang
 
-  [PDF]()|[DOI](https://ieeexplore.ieee.org/abstract/document/9669341)
+  [PDF]() &#124 [DOI](https://ieeexplore.ieee.org/abstract/document/9669341)
 
   *IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2021)*
 
