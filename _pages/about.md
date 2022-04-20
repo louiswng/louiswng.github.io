@@ -16,10 +16,9 @@ My current research interests including Data Mining and Graph Neural Networks (G
 
 # Publications([google scholar profile](https://scholar.google.com/citations?user=jKxBZMwAAAAJ&hl=zh-CN&oi=ao))
 
-- Yunkai Xiao†, <b>Tianle Wang†</b>, Xinhua Sun, Yicong Li, Yang Song, Jialin Cui, Qinjin Jia, Chengyuan Liu, Edward F Gehringer. Modeling review helpfulness with augmented transformer neural networks. IEEE International Conference on Semantic Computing (ICSC), 2022 (Accepted).
+- Yunkai Xiao†, <b>Tianle Wang†</b>, Xinhua Sun, Yicong Li, Yang Song, Jialin Cui, Qinjin Jia, Chengyuan Liu, Edward F Gehringer. Modeling review helpfulness with augmented transformer neural networks. [IEEE International Conference on Semantic Computing](https://semanticcomputing.wixsite.com/icsc2022) (ICSC), 2022 (Accepted). [[PDF](https://louiswng.github.io/files/IEEE_ICSC_2022_Augmented_model_helpfulness.pdf)]
+- Xianbing Feng, Jingwei Qu, <b>Tianle Wang</b>, Bei Wang, Xiaoqing Lyu, Zhi Tang. Attention-enhanced Graph Cross-convolution for Protein-Ligand Binding Affinity Prediction. [IEEE International Conference on Bioinformatics and Biomedicine](https://ieeebibm.org/BIBM2021/) (BIBM), 2021, (Accepted). [[PDF](https://louiswng.github.io/files/IEEE_BIBM2021_GCAT.pdf)]
 
-
-- Xianbing Feng, Jingwei Qu, <b>Tianle Wang</b>, Bei Wang, Xiaoqing Lyu, Zhi Tang. Attention-enhanced Graph Cross-convolution for Protein-Ligand Binding Affinity Prediction. IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2021, (Accepted).
 - J. Qu, H. Ling, X. Lyu, **Tianle Wang**, Z. Tang, T. Wang, H. Zeng, and K. Ma. Relation-Aware Keypoint Matching with Space-Spanned Feature, IEEE Transactions on Multimedia (TMM), 2021, (Under Review).
 - Jingwei Qu, Xiaoqing Lyu, **Tianle Wang**. Semantic Alignment Learning Based on Triple Sampling Method, Patent for Invention (Patent Application Number: 202110516741.5), 2021, (Under Review).
 
