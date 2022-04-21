@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me ([Curriculum Vitae](https://louiswng.github.io/files/CV.pdf))"
+title: "Tianle Wang | University of Hong Kong"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
