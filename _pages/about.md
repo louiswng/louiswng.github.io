@@ -1,12 +1,15 @@
 ---
 permalink: /
-title: "Tianle Wang | University of Hong Kong"
-excerpt: "About me"
+title: "Tianle Wang University of Hong Kong"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+# About me ([Curriculum Vitae](http://louiswng.github.io/files/CV.pdf))
+
 * I am currently a undergraduate student in School of Computer Science, Beijing University of Posts and Telecommunications (BUPT), and I will receive my Bachelor's degree in Jul. 2022.<br>
 * I am also an intern at [Data Intelligence Lab](https://sites.google.com/view/chaoh/group-join-us?authuser=0), University of Hong Kong , under the supervision of Dr. [Chao Huang](https://sites.google.com/view/chaoh).<br>
 
