@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Tianle Wang University of Hong Kong"
+title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
