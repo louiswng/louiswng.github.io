@@ -17,14 +17,21 @@ redirect_from:
 
 # Recent News
 
-(2022.4.1) I received a conditional offer from the University of Hong Kong!
+(2022.4.1) I receive a conditional offer from the University of Hong Kong!
 
 (2021.12.10) The paper *Modeling review helpfulness with augmented transformer neural networks* gets accepted to ICSC 2022!
 
 (2021.10.24) The paper *Attention-enhanced Graph Cross-convolution for Protein-Ligand Binding Affinity Prediction* gets accepted to BIBM 2021!
 
-
 # Education
+
+## MPhil of Computer Science
+
+*at University of Hong Kong*																									2018 - 2022
+
+Mentor: Dr. Chao Huang
+
+
 
 ## Bachelor of Network Engineering
 
