@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# About me ([Curriculum Vitae](http://louiswng.github.io/files/CV.pdf))
+# About me ([CV](http://louiswng.github.io/files/cv_en.pdf)|[简历](http://louiswng.github.io/files/cv_zh.pdf))
 
 * I am currently a undergraduate student in School of Computer Science, Beijing University of Posts and Telecommunications (BUPT), and I will receive my Bachelor's degree in Jul. 2022.<br>
 * I am also an intern at [Data Intelligence Lab](https://sites.google.com/view/chaoh/group-join-us?authuser=0), University of Hong Kong , under the supervision of Dr. [Chao Huang](https://sites.google.com/view/chaoh).<br>
@@ -17,17 +17,18 @@ redirect_from:
 
 # Recent News
 
+(2022.4.1) I received a conditional offer from the University of Hong Kong!
+
 (2021.12.10) The paper *Modeling review helpfulness with augmented transformer neural networks* gets accepted to ICSC 2022!
 
 (2021.10.24) The paper *Attention-enhanced Graph Cross-convolution for Protein-Ligand Binding Affinity Prediction* gets accepted to BIBM 2021!
-
 
 
 # Education
 
 ## Bachelor of Network Engineering
 
-*at Beijing University of Posts and Telecommunications*																									2018 - 2022, expected
+*at Beijing University of Posts and Telecommunications*																									2018 - 2022
 
 Overall GPA: **90.05**/100 (ranking **1st**/69)
 
@@ -51,7 +52,9 @@ My current research interests including Data Mining and Graph Neural Networks (G
 
 # Honors and Awards
 
-* **1st Prize of the ”Challenge Cup” Capital Undergraduate Curricular Academic**
+* **Beijing Outstanding Graduates**, Beijing, 2022
+
+* **1st Prize of the ”Challenge Cup” Capital Undergraduate Curricular Academic**, Beijing, 2021
 
   **Science and Technology Works by Race**, Beijing, 2021
 
