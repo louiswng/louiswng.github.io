@@ -10,12 +10,14 @@ redirect_from:
 
 # About me ([CV](http://louiswng.github.io/files/cv_en.pdf)|[简历](http://louiswng.github.io/files/cv_zh.pdf))
 
-* I am currently a undergraduate student in School of Computer Science, Beijing University of Posts and Telecommunications (BUPT), and I will receive my Bachelor's degree in Jul. 2022.<br>
-* I am also an intern at [Data Intelligence Lab](https://sites.google.com/view/chaoh/group-join-us?authuser=0), University of Hong Kong , under the supervision of Dr. [Chao Huang](https://sites.google.com/view/chaoh).<br>
+* I am currently a MPhil student in the Department of Computer Science, The University of Hong Kong (HKU), and I will receive my MPhil's degree in Sep. 2024.<br>
+* I am also do research at [Data Intelligence Lab](https://sites.google.com/view/chaoh/group-join-us?authuser=0), the University of Hong Kong , under the supervision of [Dr.Chao Huang](https://sites.google.com/view/chaoh).<br>
 
 
 
 # Recent News
+
+(2023.4.20) The paper *Denoised Self-Augmented Learning for Social Recommendation* gets accepted to IJCAI 2023!
 
 (2022.4.1) I receive a conditional offer from the University of Hong Kong!
 
@@ -27,7 +29,7 @@ redirect_from:
 
 ## MPhil of Computer Science
 
-*at University of Hong Kong*																									2018 - 2022
+*at University of Hong Kong*																									20022 - present
 
 Mentor: Dr. Chao Huang
 
@@ -49,9 +51,10 @@ My current research interests including Data Mining and Graph Neural Networks (G
 
 # Publications
 
-- Yunkai Xiao†, <b>Tianle Wang†</b>, Xinhua Sun, Yicong Li, Yang Song, Jialin Cui, Qinjin Jia, Chengyuan Liu, Edward F Gehringer. Modeling review helpfulness with augmented transformer neural networks. [IEEE International Conference on Semantic Computing](https://semanticcomputing.wixsite.com/icsc2022) (ICSC), 2022 (Accepted). [[PDF](https://louiswng.github.io/files/IEEE_ICSC_2022_Augmented_model_helpfulness.pdf)]
-- Xianbing Feng, Jingwei Qu, <b>Tianle Wang</b>, Bei Wang, Xiaoqing Lyu, Zhi Tang. Attention-enhanced Graph Cross-convolution for Protein-Ligand Binding Affinity Prediction. [IEEE International Conference on Bioinformatics and Biomedicine](https://ieeebibm.org/BIBM2021/) (BIBM), 2021, (Accepted). [[PDF](https://louiswng.github.io/files/IEEE_BIBM2021_GCAT.pdf)]
-
+- <b>Tianle Wang</b>, Lianghao Xia, Chao Huang. Denoised Self-Augmented Learning for Social Recommendation. [International Joint Conference on Artificial Intelligence](https://ijcai-23.org) (IJCAI), 2023. [[PDF](https://www.ijcai.org/proceedings/2023/0258.pdf)]
+- Xubin Ren, Lianghao Xia, Yuhao Yang, Wei Wei, **Tianle Wang**, Xuheng Cai, Chao Huang*. SSLRec: A Self-Supervised Learning Library for Recommendation. [ACM International Conference Web Search and Data Mining](https://www.wsdm-conference.org/2024/) (WSDM), 2023, (Under Reviw). [[PDF](https://louiswng.github.io/files/IEEE_ICSC_2022_Augmented_model_helpfulness.pdf)]
+- Yunkai Xiao†, <b>Tianle Wang†</b>, Xinhua Sun, Yicong Li, Yang Song, Jialin Cui, Qinjin Jia, Chengyuan Liu, Edward F Gehringer. Modeling review helpfulness with augmented transformer neural networks. [IEEE International Conference on Semantic Computing](https://semanticcomputing.wixsite.com/icsc2022) (ICSC), 2022. [[PDF](https://louiswng.github.io/files/IEEE_ICSC_2022_Augmented_model_helpfulness.pdf)]
+- Xianbing Feng, Jingwei Qu, <b>Tianle Wang</b>, Bei Wang, Xiaoqing Lyu, Zhi Tang. Attention-enhanced Graph Cross-convolution for Protein-Ligand Binding Affinity Prediction. [IEEE International Conference on Bioinformatics and Biomedicine](https://ieeebibm.org/BIBM2021/) (BIBM), 2021. [[PDF](https://louiswng.github.io/files/IEEE_BIBM2021_GCAT.pdf)]
 - J. Qu, H. Ling, X. Lyu, **Tianle Wang**, Z. Tang, T. Wang, H. Zeng, and K. Ma. Relation-Aware Keypoint Matching with Space-Spanned Feature, [IEEE Transactions on Multimedia](https://signalprocessingsociety.org/publications-resources/ieee-transactions-multimedia) (TMM), 2021, (Under Review).
 - Jingwei Qu, Xiaoqing Lyu, **Tianle Wang**. Semantic Alignment Learning Based on Triple Sampling Method, Patent for Invention (Patent Application Number: 202110516741.5), 2021, (Under Review).
 
