@@ -11,15 +11,19 @@ redirect_from:
 # About me ([CV](http://louiswng.github.io/files/cv_en.pdf)|[简历](http://louiswng.github.io/files/cv_zh.pdf))
 
 * I am currently a MPhil student in the Department of Computer Science, The University of Hong Kong (HKU), and I will receive my MPhil's degree in Sep. 2024.<br>
-* I am also do research at [Data Intelligence Lab](https://sites.google.com/view/chaoh/group-join-us?authuser=0), the University of Hong Kong , under the supervision of [Dr.Chao Huang](https://sites.google.com/view/chaoh).<br>
+* I am also do research at [Data Intelligence Lab](https://sites.google.com/view/chaoh/group-join-us?authuser=0), the University of Hong Kong, under the supervision of [Dr. Chao Huang](https://sites.google.com/view/chaoh).<br>
 
 
 
 # Recent News
 
+(2023.11.1) I successfully transfered to a PhD program.
+
+(2023.10.20) The paper *SSLRec: A Self-Supervised Learning Library for Recommendation* gets accepted to WSDM 2024!
+
 (2023.4.20) The paper *Denoised Self-Augmented Learning for Social Recommendation* gets accepted to IJCAI 2023!
 
-(2022.4.1) I receive a conditional offer from the University of Hong Kong!
+(2022.4.1) I receive an offer from the University of Hong Kong!
 
 (2021.12.10) The paper *Modeling review helpfulness with augmented transformer neural networks* gets accepted to ICSC 2022!
 
@@ -27,9 +31,9 @@ redirect_from:
 
 # Education
 
-## MPhil of Computer Science
+## PhD of Computer Science
 
-*at University of Hong Kong*																									20022 - present
+*at University of Hong Kong*																									2022 - present
 
 Mentor: Dr. Chao Huang
 
@@ -45,14 +49,14 @@ Overall GPA: **90.05**/100 (ranking **1st**/69)
 
 # Research
 
-My current research interests including Data Mining and Graph Neural Networks (GNNs), particularly in graph representation learning and recommendation system.
+My current research interests including Data Mining and Graph Neural Networks (GNNs), particularly in graph representation learning and recommender system.
 
 
 
 # Publications
 
 - <b>Tianle Wang</b>, Lianghao Xia, Chao Huang. Denoised Self-Augmented Learning for Social Recommendation. [International Joint Conference on Artificial Intelligence](https://ijcai-23.org) (IJCAI), 2023. [[PDF](https://www.ijcai.org/proceedings/2023/0258.pdf)]
-- Xubin Ren, Lianghao Xia, Yuhao Yang, Wei Wei, **Tianle Wang**, Xuheng Cai, Chao Huang*. SSLRec: A Self-Supervised Learning Library for Recommendation. [ACM International Conference Web Search and Data Mining](https://www.wsdm-conference.org/2024/) (WSDM), 2023, (Under Reviw). [[PDF](https://louiswng.github.io/files/IEEE_ICSC_2022_Augmented_model_helpfulness.pdf)]
+- Xubin Ren, Lianghao Xia, Yuhao Yang, Wei Wei, **Tianle Wang**, Xuheng Cai, Chao Huang*. SSLRec: A Self-Supervised Learning Library for Recommendation. [ACM International Conference Web Search and Data Mining](https://www.wsdm-conference.org/2024/) (WSDM), 2023. 
 - Yunkai Xiao†, <b>Tianle Wang†</b>, Xinhua Sun, Yicong Li, Yang Song, Jialin Cui, Qinjin Jia, Chengyuan Liu, Edward F Gehringer. Modeling review helpfulness with augmented transformer neural networks. [IEEE International Conference on Semantic Computing](https://semanticcomputing.wixsite.com/icsc2022) (ICSC), 2022. [[PDF](https://louiswng.github.io/files/IEEE_ICSC_2022_Augmented_model_helpfulness.pdf)]
 - Xianbing Feng, Jingwei Qu, <b>Tianle Wang</b>, Bei Wang, Xiaoqing Lyu, Zhi Tang. Attention-enhanced Graph Cross-convolution for Protein-Ligand Binding Affinity Prediction. [IEEE International Conference on Bioinformatics and Biomedicine](https://ieeebibm.org/BIBM2021/) (BIBM), 2021. [[PDF](https://louiswng.github.io/files/IEEE_BIBM2021_GCAT.pdf)]
 - J. Qu, H. Ling, X. Lyu, **Tianle Wang**, Z. Tang, T. Wang, H. Zeng, and K. Ma. Relation-Aware Keypoint Matching with Space-Spanned Feature, [IEEE Transactions on Multimedia](https://signalprocessingsociety.org/publications-resources/ieee-transactions-multimedia) (TMM), 2021, (Under Review).
