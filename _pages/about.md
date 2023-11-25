@@ -32,7 +32,7 @@ redirect_from:
 
 ## PhD of Computer Science
 
-*at University of Hong Kong*																									2022 - present
+*at the University of Hong Kong*																									2022 - present
 
 Mentor: Dr. Chao Huang
 
