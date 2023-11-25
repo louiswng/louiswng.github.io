@@ -12,6 +12,8 @@ redirect_from:
 
 * I am currently a MPhil student in the Department of Computer Science, The University of Hong Kong (HKU), and I will receive my MPhil's degree in Sep. 2024.<br>
 * I am also do research at [Data Intelligence Lab](https://sites.google.com/view/chaoh/group-join-us?authuser=0), the University of Hong Kong, under the supervision of [Dr. Chao Huang](https://sites.google.com/view/chaoh).<br>
+* I am currently a MPhil student in the Department of Computer Science, The University of Hong Kong (HKU), and I will receive my MPhil's degree in Sep. 2024.<br>
+* I am also do research at [Data Intelligence Lab](https://sites.google.com/view/chaoh/group-join-us?authuser=0), the University of Hong Kong, under the supervision of [Dr. Chao Huang](https://sites.google.com/view/chaoh).<br>
 
 
 
@@ -34,6 +36,7 @@ redirect_from:
 ## PhD of Computer Science
 
 *at University of Hong Kong*																									2022 - present
+*at University of Hong Kong*																									2022 - present
 
 Mentor: Dr. Chao Huang
 
@@ -49,6 +52,7 @@ Overall GPA: **90.05**/100 (ranking **1st**/69)
 
 # Research
 
+My current research interests including Data Mining and Graph Neural Networks (GNNs), particularly in graph representation learning and recommender system.
 My current research interests including Data Mining and Graph Neural Networks (GNNs), particularly in graph representation learning and recommender system.
 
 
