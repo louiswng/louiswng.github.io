@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tianle Wang (Louis)"
 title_separator          : "-"
 name                     : &name "Tianle Wang (Louis)"
-description              : &description "PhD candidate at the Department of Computer Science, the University of Hong Kong"
+description              : &description "MPhil candidate at the Department of Computer Science, the University of Hong Kong"
 url                      : https://louiswng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "louiswng/louiswng.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Tianle Wang (Louis)"
   avatar           : "profile.png"
-  bio              : "PhD candidate at the Department of Computer Science, the University of Hong Kong"
+  bio              : "MPhil candidate at the Department of Computer Science, the University of Hong Kong"
   location         : "Hong Kong"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=jKxBZMwAAAAJ&hl=zh-CN&oi=ao"
-  email            : louiswong.cs@connect.hku.hk
+  email            : louis.wng@outlook.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
