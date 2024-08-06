@@ -11,7 +11,7 @@ redirect_from:
 # About me ([CV](http://louiswng.github.io/files/cv_en.pdf)|[简历](http://louiswng.github.io/files/cv_zh.pdf))
 
 * I am currently a MPhil candidate in the Department of Computer Science, The University of Hong Kong (HKU), and I will receive my MPhil's degree in Sep. 2024.<br>
-* I am also do research at [Data Intelligence Lab](https://sites.google.com/view/chaoh/group-join-us?authuser=0), the University of Hong Kong, under the supervision of [Dr. Chao Huang](https://sites.google.com/view/chaoh).<br>
+* I am also do research at [Data Intelligence Lab](https://sites.google.com/view/chaoh/group-join-us?authuser=0), the University of Hong Kong, under the supervision of [Prof. Chao Huang](https://sites.google.com/view/chaoh).<br>
 
 
 # Recent News
@@ -32,7 +32,7 @@ redirect_from:
 
 *at the University of Hong Kong*																									2022 - present
 
-Mentor: Dr. Chao Huang
+Supervisor: Prof. Chao Huang
 
 
 
