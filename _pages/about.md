@@ -33,13 +33,15 @@ redirect_from:
 
 *at City University of Hong Kong* — Sep. 2025 - present
 
-[Miaow Lab](https://miaow-lab.github.io) | Supervisor: Prof. Ning Miao
+[Miaow Lab](https://miaow-lab.github.io)<br>
+Supervisor: Prof. Ning Miao
 
 ## MPhil in Computer Science
 
 *at the University of Hong Kong* — Sep. 2022 - Jul. 2024
 
-Data Intelligence Lab@HKU | Supervisor: Prof. Chao Huang
+Data Intelligence Lab@HKU<br>
+Supervisor: Prof. Chao Huang
 
 ## B.Eng. in Computer Science
 
