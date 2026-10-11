@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-# About me ([CV](http://louiswng.github.io/files/cv_en.pdf)|[简历](http://louiswng.github.io/files/cv_zh.pdf))
+# About me ([CV](https://louiswng.github.io/files/cv_en.pdf)|[简历](https://louiswng.github.io/files/cv_zh.pdf))
 
-* I am currently a MPhil candidate in the Department of Computer Science, The University of Hong Kong (HKU), and I will receive my MPhil's degree in Sep. 2024.<br>
-* I am also do research at [Data Intelligence Lab](https://sites.google.com/view/chaoh/group-join-us?authuser=0), the University of Hong Kong, under the supervision of [Prof. Chao Huang](https://sites.google.com/view/chaoh).<br>
+* I am currently a PhD student in the Department of Data Science, City University of Hong Kong, since Sep. 2025.<br>
+* I conduct research at [Miaow Lab](https://miaow-lab.github.io), under the supervision of Prof. Ning Miao.<br>
+* I received my MPhil in Computer Science from the University of Hong Kong in Jul. 2024, where I worked at [Data Intelligence Lab](https://sites.google.com/view/chaoh/group-join-us?authuser=0) under the supervision of [Prof. Chao Huang](https://sites.google.com/view/chaoh).<br>
 
 
 # Recent News
@@ -28,29 +29,40 @@ redirect_from:
 
 # Education
 
-## MPhil of Computer Science
+## PhD in Data Science
 
-*at the University of Hong Kong*																									2022 - present
+*at City University of Hong Kong* — Sep. 2025 - present
 
-Supervisor: Prof. Chao Huang
+[Miaow Lab](https://miaow-lab.github.io) | Supervisor: Prof. Ning Miao
 
+## MPhil in Computer Science
 
+*at the University of Hong Kong* — Sep. 2022 - Jul. 2024
 
-## Bachelor of Network Engineering
+Data Intelligence Lab@HKU | Supervisor: Prof. Chao Huang
 
-*at Beijing University of Posts and Telecommunications*																									2018 - 2022
+## B.Eng. in Computer Science
+
+*at Beijing University of Posts and Telecommunications* — Sep. 2018 - Jul. 2022
 
 Overall GPA: **90.05**/100 (ranking **1st**/69)
 
+# Industry Experience
 
+## Research Assistant Intern, Li Auto Inc.
+
+*Foundation Model Team, Beijing, China* — Jun. 2025 - Jun. 2026
 
 # Research
 
-My current research interests including Data Mining, Recommender Systems and Large Language Models.
+My current research interests include LLM Post-training and Data Mining.
 
 
 
 # Publications
+
+- **Tianle Wang**, Jiayu Liu, Zhongyuan Wu, Shenghao Jin, Hao Xu, Ning Miao*. Linear Dynamics in the RLVR Training of Large Language Models. arXiv, 2026. [[PDF](https://arxiv.org/pdf/2601.04537)]
+- **Tianle Wang**, Jiayu Liu, Ruizhi Zhao, Ning Miao*. SAPD: Step-Aligned Privileged Distillation. arXiv, 2026. [[PDF](https://arxiv.org/pdf/2610.09665)]
 
 - <b>Tianle Wang</b>, Lianghao Xia, Chao Huang. Denoised Self-Augmented Learning for Social Recommendation. [International Joint Conference on Artificial Intelligence](https://ijcai-23.org) (IJCAI), 2023. [[PDF](https://www.ijcai.org/proceedings/2023/0258.pdf)]
 - Xubin Ren, Lianghao Xia, Yuhao Yang, Wei Wei, **Tianle Wang**, Xuheng Cai, Chao Huang*. SSLRec: A Self-Supervised Learning Library for Recommendation. [ACM International Conference Web Search and Data Mining](https://www.wsdm-conference.org/2024/) (WSDM), 2023. [[PDF](https://arxiv.org/pdf/2308.05697.pdf)]
