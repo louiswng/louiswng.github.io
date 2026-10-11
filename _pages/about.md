@@ -74,6 +74,14 @@ My current research interests include LLM Post-training and Data Mining.
 
 
 
+# Technical Blogs
+
+- [23/June/2025] Entropy Maximization Alone Can Improve LLM Reasoning Performance? [[Notion](https://cityumiaolab.notion.site/Entropy-Maximization-Alone-Can-Improve-LLM-Reasoning-Performance-216b98d882d28042b9aad9e81c4ef196)]
+
+# Teaching
+
+- Co-lecturer, [SDSC4070](https://www.cityu.edu.hk/catalogue/ug/202526/course/SDSC4070.pdf)
+
 # Honors and Awards
 
 * **Beijing Outstanding Graduates**, Beijing, 2022
