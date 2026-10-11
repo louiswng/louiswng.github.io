@@ -11,8 +11,8 @@ redirect_from:
 # About me ([CV](https://louiswng.github.io/files/cv_en.pdf)|[简历](https://louiswng.github.io/files/cv_zh.pdf))
 
 * I am currently a PhD student in the Department of Data Science, City University of Hong Kong, since Sep. 2025.<br>
-* I conduct research at [Miaow Lab](https://miaow-lab.github.io), under the supervision of Prof. Ning Miao.<br>
-* I received my MPhil in Computer Science from the University of Hong Kong in Jul. 2024, where I worked at [Data Intelligence Lab](https://sites.google.com/view/chaoh/group-join-us?authuser=0) under the supervision of [Prof. Chao Huang](https://sites.google.com/view/chaoh).<br>
+* I conduct research at [Miaow Lab](https://miaow-lab.github.io), under the supervision of [Prof. Ning Miao](https://www.ningmiao.space).<br>
+* I received my MPhil in Computer Science from the University of Hong Kong in Jul. 2024, where I studied under the supervision of [Prof. Chao Huang](https://sites.google.com/view/chaoh), and my B.Eng. in Computer Science from Beijing University of Posts and Telecommunications in Jul. 2022.<br>
 
 
 # Recent News
